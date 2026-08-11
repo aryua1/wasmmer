@@ -1,3 +1,4 @@
+name: Build and Push Docker Image
 docker run -d \
   --name node-hy2 \
   -p 3000:3000/udp \
